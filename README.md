@@ -1,7 +1,19 @@
-### Hi there <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
+## 
+<div align=center>
+     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3500&pause=300&color=color=228B22&center=true&vCenter=true&width=500&lines=Hi🖐+I'm+Ayse;Welcome+to+my+profile!;Description+of+myself%3A;Full+Stack+Developer;" alt="Typing SVG" /></a>
+</div>
 
-<h2>I'm Ayse Ugurlu, Full Stack Developer :computer: </h2>
+<br>
+<font color="pink"> :snowboarder: I'm Full Stack Developer</font>
 </br>
+<br>
+<font color="pink"> :fire: My developer career started in 2022, and it goes on...</font>
+</br>
+<br>
+<font color="pink"> :rocket: Currently, I am focusing on HTML, CSS,React, Javascript, SASS, Bootstrap, React...</font>
+</br>
+
+
 
 
 <p align="center">
