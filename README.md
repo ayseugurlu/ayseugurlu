@@ -63,8 +63,7 @@
 ## Contact Me
 
 <p align="center">
-  <a href="https://www.xing.com/profile/Ayse_Ugurlu078793/web_profiles"><img src="https://banner2.cleanpng.com/20180511/qcq/kisspng-xing-computer-icons-social-networking-service-vkon-5af549f2d04585.6809646015260246908531.jpg
-" alt="darkwood"  width="70" height="70"/></a>
+  <a href="https://www.xing.com/profile/Ayse_Ugurlu078793/web_profiles"><img src="https://img.icons8.com/?size=100&id=13979&format=png&color=000000" alt="darkwood"  width="70" height="70"/></a>
   <a href="mailto:ayseugurlu9135@gmail.com" target="_blank"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"  width="70" height="70"/></a>
   <a href="https://www.linkedin.com/in/ayse-ugurlu/" target="_blank"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" width="70" height="70"/></a>
 </p>
