@@ -3,11 +3,7 @@
 <h2>I'm Ayse Ugurlu, Full Stack Developer :computer: </h2>
 </br>
 
-  <div>
-  <a href="https://aysecw.netlify.app/" target="_blank">
-<kbd> <br> Personal Website <br> </kbd>
-  </a>
-  </div> 
+
 <p align="center">
   <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
  </p>
@@ -67,7 +63,8 @@
 ## Contact Me
 
 <p align="center">
-  <a href="https://aysecw.netlify.app/"><img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="darkwood"  width="70" height="70"/></a>
+  <a href="https://www.xing.com/profile/Ayse_Ugurlu078793/web_profiles"><img src="![image](https://github.com/user-attachments/assets/3efb48ef-9986-445e-8589-e1b0ac3436ae)
+" alt="darkwood"  width="70" height="70"/></a>
   <a href="mailto:ayseugurlu9135@gmail.com" target="_blank"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"  width="70" height="70"/></a>
   <a href="https://www.linkedin.com/in/ayse-ugurlu/" target="_blank"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" width="70" height="70"/></a>
 </p>
