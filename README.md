@@ -55,6 +55,8 @@
 [The-Best-Movies-App](https://thebestmoviesapp.netlify.app/)| HTML5, CSS3, JavaScript, Responsive , ReactJS |![thebestmoviesapp](https://github.com/user-attachments/assets/173210ee-5fdd-412f-9be4-55a437ed5e7a)|[Source Code](https://github.com/ayseugurlu/The-Best-Movies-App)
 [Arzt-Termin-App](https://arzt-termin-app.netlify.app/)| HTML5, CSS3, JavaScript, Responsive , ReactJS |![arzt-termin-app](https://github.com/user-attachments/assets/49ed3cb3-f740-4027-8fb0-a74b1dc2e9c3)|[Source Code](https://github.com/ayseugurlu/Arzt-Termin-App)
 [Weather-App](https://ayseugurlu.github.io/Weather-App/HTML-CSS/)| HTML5, CSS3, JavaScript, Responsive |![weather-app](https://github.com/user-attachments/assets/ffa3a107-83fb-4a61-ad4b-f1e11eb9ea63)|[Source Code](https://github.com/ayseugurlu/Weather-App/tree/main)
+[Wallet-App](https://ayseugurlu.github.io/Wallet-App/)| HTML5, CSS3, Bootstrap, JavaScript, Responsive |![my-wallet-app](https://github.com/user-attachments/assets/ad6edd58-84e6-4a90-ac57-ec61bf66c2b1)|[Source Code](https://github.com/ayseugurlu/Wallet-App)
+[ios-calculator](https://ayseugurlu.github.io/ios-calculator/)| HTML5, CSS3, JavaScript, Responsive |![ios-calculator](https://github.com/user-attachments/assets/c6bcc9d0-94d4-46ae-b5c9-80a0f0609e5e)|[Source Code](https://github.com/ayseugurlu/ios-calculator)
 
 
 </div>
