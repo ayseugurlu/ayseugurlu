@@ -64,6 +64,7 @@
 👉 Please click on the project names to see the live demo of the projects 👈
   Project Name       |Libraries and Technologies I use     |How does my project look          |Source Codes       
 :-------------------------|-------------------------|-------------------------|-------------------------
+[blog-app](https://ayse-blog-app.vercel.app/)| HTML5, CSS3, Responsive , ReactJS, Router,Material UI, Redux Toolkit,Toastify, Vite |![blog-app](https://github.com/user-attachments/assets/80e17fba-4d68-4304-82d4-288146ce5725)|[Source Code]https://github.com/ayseugurlu/Blog-App
 [stock-management-app](https://stock-management-5cwdan50f-ayses-projects-fcb4296c.vercel.app/)| HTML5, CSS3, Responsive , ReactJS, Router,Material UI, Tailwind CSS, Redux Toolkit,Toastify, Vite |![stock-management-app](https://github.com/user-attachments/assets/816f8ff4-6dce-485b-bed4-3968f0394724)|[Source Code](https://github.com/ayseugurlu/Stock-Management-App)
 [movie-app](https://movie-app-git-main-ayses-projects-fcb4296c.vercel.app/)| HTML5, CSS3, Responsive , ReactJS, Router, Tailwind CSS, Firebase|![movie-app](https://github.com/user-attachments/assets/f8cee121-68c5-4442-8551-d19ddf8067ae)|[Source Code](https://github.com/ayseugurlu/Movie-App)
 [rezept-app](https://rezept-app.vercel.app/)| HTML5, CSS3, Responsive , ReactJS, Router, Styled Components,|![rezept-app](https://github.com/user-attachments/assets/09bca29a-405a-41f3-b209-a82a9a8455ee)|[Source Code](https://github.com/ayseugurlu/Rezept-App)
