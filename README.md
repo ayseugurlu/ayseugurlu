@@ -36,13 +36,11 @@
 
 <img width="30px" alt="js" title="js" src="https://skillicons.dev/icons?i=js" />
 <img width="30px" alt="ts" title="ts" src="https://skillicons.dev/icons?i=ts" />
-<img width="30px" alt="python" title="python" src="https://skillicons.dev/icons?i=py&theme=light" />
 <img width="30px" alt="nodejs" title="nodejs" src="https://skillicons.dev/icons?i=nodejs" />
-<img width="30px" alt="nestjs" title="nestjs" src="https://skillicons.dev/icons?i=nestjs" />
+<img width="30px" alt="nextjs" title="nestjs" src="https://skillicons.dev/icons?i=nextjs" />
 <img width="30px" alt="expressjs" title="expressjs" src="https://skillicons.dev/icons?i=express" />
 <img width="30px" alt="firebase" title="firebase" src="https://skillicons.dev/icons?i=firebase" />
 <img width="30px" alt="react" title="react" src="https://skillicons.dev/icons?i=react" />
-<img width="30px" alt="react  title="react native" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img width="30px" alt="sass" title="sass" src="https://skillicons.dev/icons?i=sass" />
 <img width="30px" alt="html5" title="html5" src="https://skillicons.dev/icons?i=html" />
 <img width="30px" alt="css3" title="css3" src="https://skillicons.dev/icons?i=css" />
@@ -54,6 +52,7 @@
 <img width="30px" alt="mysql" title="mysql" src="https://skillicons.dev/icons?i=mysql" />
 <img width="30px" alt="mongodb" title="mongodb" src="https://skillicons.dev/icons?i=mongodb" />
 <img width="30px" alt="git" title="git" src="https://skillicons.dev/icons?i=git" />
+<img width="30px" alt="gitlab" title="git" src="https://skillicons.dev/icons?i=gitlab" />
 <img width="30px" alt="bash" title="bash" src="https://skillicons.dev/icons?i=bash" />
 <img width="30px" alt="linux" title="linux" src="https://skillicons.dev/icons?i=linux" />
 <img width="30px" alt="vscode" title="vscode" src="https://skillicons.dev/icons?i=vscode" />
