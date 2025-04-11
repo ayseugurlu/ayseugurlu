@@ -37,7 +37,7 @@
 <img width="30px" alt="js" title="js" src="https://skillicons.dev/icons?i=js" />
 <img width="30px" alt="ts" title="ts" src="https://skillicons.dev/icons?i=ts" />
 <img width="30px" alt="nodejs" title="nodejs" src="https://skillicons.dev/icons?i=nodejs" />
-<img width="30px" alt="nextjs" title="nestjs" src="https://skillicons.dev/icons?i=nextjs" />
+<img width="30px" alt="nextjs" title="nextjs" src="https://skillicons.dev/icons?i=nextjs" />
 <img width="30px" alt="expressjs" title="expressjs" src="https://skillicons.dev/icons?i=express" />
 <img width="30px" alt="firebase" title="firebase" src="https://skillicons.dev/icons?i=firebase" />
 <img width="30px" alt="react" title="react" src="https://skillicons.dev/icons?i=react" />
