@@ -57,6 +57,7 @@
 <img width="30px" alt="linux" title="linux" src="https://skillicons.dev/icons?i=linux" />
 <img width="30px" alt="vscode" title="vscode" src="https://skillicons.dev/icons?i=vscode" />
 <img width="30px" alt="postman" title="postman" src="https://skillicons.dev/icons?i=postman" />
+<img width="30px" alt="java" title="java" src="https://skillicons.dev/icons?i=java" />
 </div>
 
 ## My projects
